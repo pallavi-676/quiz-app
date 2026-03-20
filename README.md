@@ -51,13 +51,13 @@ quiz-app-pro/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/quiz-app-pro.git
+git clone https://github.com/pallavi-676/quiz-app.git
 ```
 
 2. Open the folder:
 
 ```bash
-cd quiz-app-pro
+cd quiz-app
 ```
 
 3. Run the project:
@@ -65,9 +65,12 @@ cd quiz-app-pro
 * Open `index.html` in your browser
 
 ---
-🌐 **Live Demo:**
-👉 https://quiz-app-ps.netlify.app/
-⚡ Try it now and test your knowledge!
+
+
+## 🌐 Live Demo
+
+🔗 [Click here to use the Quiz App](https://quiz-app-ps.netlify.app/)
+
 ---
 
 ## 🎮 How It Works
@@ -98,7 +101,7 @@ cd quiz-app-pro
 * 🎨 Advanced UI animations
 
 ---
----
+
 
 
 ## 💡 Author
