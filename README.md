@@ -1,0 +1,109 @@
+# 🚀 Quiz App Pro
+
+A modern, feature-rich quiz web application built with **HTML, CSS, and JavaScript**.
+Test your knowledge with interactive quizzes, timers, lifelines, and a dynamic leaderboard.
+
+---
+
+## 🌟 Features
+
+* ⏱️ **Timer-based questions** (difficulty-based timing)
+* 🎯 **Multiple categories** (Coding, Science, History, Math)
+* 🎚️ **Difficulty levels** (Easy, Medium, Hard)
+* 🧠 **Lifelines**
+
+  * 50/50 option
+  * Skip question
+* 📊 **Leaderboard system** (stored using localStorage)
+* 🌐 **API Integration** (fetches dynamic quiz questions)
+* 🔁 **Fallback system** (uses local questions if API fails)
+* 🎉 **Confetti & sound effects** for better UX
+* 🌙 **Dark/Light mode toggle**
+* 📱 **Responsive design**
+
+---
+
+## 🛠️ Tech Stack
+
+* **HTML5** – Structure
+* **CSS3** – Styling & animations
+* **JavaScript (Vanilla JS)** – Logic & functionality
+* **Open Trivia DB API** – Dynamic questions
+
+---
+
+## 📂 Project Structure
+
+```
+quiz-app-pro/
+│── index.html
+│── style.css
+│── script.js
+```
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/quiz-app-pro.git
+```
+
+2. Open the folder:
+
+```bash
+cd quiz-app-pro
+```
+
+3. Run the project:
+
+* Open `index.html` in your browser
+
+---
+
+## 🎮 How It Works
+
+1. Start the quiz
+2. Choose category & difficulty
+3. Answer questions within time
+4. Use lifelines strategically
+5. View your score & leaderboard
+
+---
+
+## 📸 Screenshots
+
+*Add screenshots here (recommended for better presentation)*
+
+---
+
+## 🔮 Future Improvements
+
+* 👤 User authentication system
+* 📊 Performance analytics (accuracy, stats)
+* 🌍 More quiz categories
+* 💾 Save progress feature
+* 🎨 Advanced UI animations
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork this repo and submit a pull request.
+
+---
+
+## 📄 License
+
+This project is open-source and available under the **MIT License**.
+
+---
+
+## 💡 Author
+
+ *Pallavi Sarovar*
+
+---
