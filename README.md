@@ -1,5 +1,12 @@
 # 🚀 Quiz App Pro
 
+
+🌐 **Live Demo:**
+👉 https://quiz-app-ps.netlify.app/
+⚡ Try it now and test your knowledge!
+
+---
+
 A modern, feature-rich quiz web application built with **HTML, CSS, and JavaScript**.
 Test your knowledge with interactive quizzes, timers, lifelines, and a dynamic leaderboard.
 
@@ -48,13 +55,13 @@ quiz-app-pro/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/quiz-app gf.git
+git clone https://github.com/your-username/quiz-app-pro.git
 ```
 
 2. Open the folder:
 
 ```bash
-cd quiz-app
+cd quiz-app-pro
 ```
 
 3. Run the project:
@@ -75,11 +82,10 @@ cd quiz-app
 
 ## 📸 Screenshots
 
-<img  src="https://github.com/user-attachments/assets/3f1a83ce-e84e-4190-94c1-9a97e55813d5" width="45%" />
-<img  src="https://github.com/user-attachments/assets/fda78d4a-4df7-4689-bb43-3689d26bc429" width="45%" />
+<img src="https://github.com/user-attachments/assets/3f1a83ce-e84e-4190-94c1-9a97e55813d5" width="45%" />
+<img src="https://github.com/user-attachments/assets/fda78d4a-4df7-4689-bb43-3689d26bc429" width="45%" />
 <img src="https://github.com/user-attachments/assets/4e44a6ed-f983-4573-9995-656a47983479" width="45%" />
 <img src="https://github.com/user-attachments/assets/c78aa3b2-eeb4-43ab-a23f-e57be019da96" width="45%" />
-
 
 ---
 
@@ -108,6 +114,6 @@ This project is open-source and available under the **MIT License**.
 
 ## 💡 Author
 
- *Pallavi Sarovar*
+**Pallavi Sarovar**
 
 ---
