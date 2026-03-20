@@ -1,9 +1,7 @@
 # 🚀 Quiz App Pro
 
 
-🌐 **Live Demo:**
-👉 https://quiz-app-ps.netlify.app/
-⚡ Try it now and test your knowledge!
+
 
 ---
 
@@ -69,6 +67,9 @@ cd quiz-app-pro
 * Open `index.html` in your browser
 
 ---
+🌐 **Live Demo:**
+👉 https://quiz-app-ps.netlify.app/
+⚡ Try it now and test your knowledge!
 
 ## 🎮 How It Works
 
