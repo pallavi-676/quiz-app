@@ -3,8 +3,6 @@
 
 
 
----
-
 A modern, feature-rich quiz web application built with **HTML, CSS, and JavaScript**.
 Test your knowledge with interactive quizzes, timers, lifelines, and a dynamic leaderboard.
 
@@ -70,6 +68,7 @@ cd quiz-app-pro
 🌐 **Live Demo:**
 👉 https://quiz-app-ps.netlify.app/
 ⚡ Try it now and test your knowledge!
+---
 
 ## 🎮 How It Works
 
@@ -99,19 +98,8 @@ cd quiz-app-pro
 * 🎨 Advanced UI animations
 
 ---
-
-## 🤝 Contributing
-
-Contributions are welcome!
-Feel free to fork this repo and submit a pull request.
-
 ---
 
-## 📄 License
-
-This project is open-source and available under the **MIT License**.
-
----
 
 ## 💡 Author
 
